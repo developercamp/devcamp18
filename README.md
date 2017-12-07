@@ -3,6 +3,8 @@
 If you would like to share your notes, repositories, sketches, photos, ... you made during Developer Camp
 with other attendees, [just paste a link to them, here](https://github.com/developercamp/devcamp18/blob/master/feedback.md).
 
+You would like to learn more? Take a look at what happened at **#devcamp17** in the [official repository](https://github.com/developercamp/devcamp17).
+
 ### Format
 
 	Description (keep it firm)
