@@ -5,6 +5,8 @@ with other attendees, [just paste a link to them, here](https://github.com/devel
 
 You would like to learn more? Take a look at what happened at **#devcamp17** in the [official repository](https://github.com/developercamp/devcamp17).
 
+Btw: Did you know that there's a new event called **[DevCamp.create](https://create.developercamp.io)**? It's a barcamp covering topics like _User Experience_, _UI Design_, _Design Thinking_ and much more. And the best of all: It's taking place at the same location and at the same time. So if you are taking part at one of the two barcamps you are able to join the sessions from the other Barcamp.
+
 ### Format
 
 	Description (keep it firm)
