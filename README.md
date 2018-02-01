@@ -22,4 +22,31 @@ We would like to see your feedback! So [use the Feedback section](https://github
 
 # More Information
 
-Thank you very much. For more information please visit [developercamp.io](https://developercamp.io)
+Thank you very much. For more information please visit [developercamp.io](https://developercamp.io) or [create.developercamp.io](https://create.developercamp.io)
+
+# Timetable
+
+We are going to provide a timetable. Stay tuned!
+
+Freitag
+
+| Freitag        | 11:00  | 12:00  | 14:00  |  15:00 | 16:15 | 17:15  |  18:15  
+|----------------|---|---|---|---|---|---|---|
+| Raum 1.002      | tba  | tba | tba | tba | tba | tba | tba |
+| Raum 1.003      | tba  | tba | tba | tba | tba | tba | tba |
+| Raum 1.005      | tba  | tba | tba | tba | tba | tba | tba |
+| Raum 1.006      | tba  | tba | tba | tba | tba | tba | tba |
+| [DevCamp.create](https://create.developercamp.io) | tba  | tba | tba | tba | tba | tba | tba |
+
+
+Samstag
+
+| Samstag        | 09:00  | 10:00  | 11:00  |  12:00 | 14:00 | 15:00  | 16:00  
+|----------------|---|---|---|---|---|---|---|
+| Raum 1.002      | tba | tba | tba | tba | tba | tba | tba |
+| Raum 1.003      | tba | tba | tba | tba | tba | tba | tba |
+| Raum 1.005      | tba | tba | tba | tba | tba | tba | tba |
+| Raum 1.006      | tba | tba | tba | tba | tba | tba | tba |
+| [DevCamp.create](https://create.developercamp.io) | [Workshop "Design Challenge"](https://create.developercamp.io/#edc) | [Workshop "Design Challenge"](https://create.developercamp.io/#edc) | [Workshop "Design Challenge"](https://create.developercamp.io/#edc) | tba | tba | tba | tba |
+
+
