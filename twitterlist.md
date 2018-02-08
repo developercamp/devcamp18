@@ -7,3 +7,4 @@ Feel free to add your twitter handle.
 * [Mayflower](https://twitter.com/mayflowergmbh) (mayflowergmbh)
 * [Robert Lippert](https://twitter.com/robsblog) (robsblog)
 * [Tom Wiesseckel](https://twitter.com/divb) (divb)
+* [Christopher Stock](https://twitter.com/jenetic1980) (jenetic1980)
