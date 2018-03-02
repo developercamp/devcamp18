@@ -26,7 +26,7 @@ Thank you very much. For more information please visit [developercamp.io](https:
 
 # Timetable
 
-We are going to provide a timetable. Stay tuned!
+We are going to provide a timetable. Even for mobile Devices – check out [developercamp.io/timetable](https://developercamp.io/timetable).  Stay tuned!
 
 Freitag
 
