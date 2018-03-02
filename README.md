@@ -32,21 +32,25 @@ Freitag
 
 | Freitag        | 11:00  | 12:00  | 14:00  |  15:00 | 16:15 | 17:15  |  18:15  
 |----------------|---|---|---|---|---|---|---|
-| Raum 1.002      | tba  | tba | tba | tba | tba | tba | tba |
+| Raum 1.002 [DevCamp.create](https://create.developercamp.io) | tba  | tba | tba | tba | tba | tba | tba |
 | Raum 1.003      | tba  | tba | tba | tba | tba | tba | tba |
 | Raum 1.005      | tba  | tba | tba | tba | tba | tba | tba |
 | Raum 1.006      | tba  | tba | tba | tba | tba | tba | tba |
-| [DevCamp.create](https://create.developercamp.io) | tba  | tba | tba | tba | tba | tba | tba |
+| Raum 1.010 | tba  | tba | tba | tba | tba | tba | tba |
+| Raum 1.013 | tba  | tba | tba | tba | tba | tba | tba |
+| Hackspace | tba  | tba | tba | tba | tba | tba | tba |
 
 
 Samstag
 
 | Samstag        | 09:00  | 10:00  | 11:00  |  12:00 | 14:00 | 15:00  | 16:00  
 |----------------|---|---|---|---|---|---|---|
-| Raum 1.002      | tba | tba | tba | tba | tba | tba | tba |
+| Raum 1.002  [DevCamp.create](https://create.developercamp.io) | [Workshop "Design Challenge"](https://create.developercamp.io/#edc) | [Workshop "Design Challenge"](https://create.developercamp.io/#edc) | [Workshop "Design Challenge"](https://create.developercamp.io/#edc) | tba | tba | tba | tba |
 | Raum 1.003      | tba | tba | tba | tba | tba | tba | tba |
 | Raum 1.005      | tba | tba | tba | tba | tba | tba | tba |
 | Raum 1.006      | tba | tba | tba | tba | tba | tba | tba |
-| [DevCamp.create](https://create.developercamp.io) | [Workshop "Design Challenge"](https://create.developercamp.io/#edc) | [Workshop "Design Challenge"](https://create.developercamp.io/#edc) | [Workshop "Design Challenge"](https://create.developercamp.io/#edc) | tba | tba | tba | tba |
+| Raum 1.010      | tba | tba | tba | tba | tba | tba | tba |
+| Raum 1.013      | tba | tba | tba | tba | tba | tba | tba |
+| Hackspace      | tba | tba | tba | tba | tba | tba | tba |
 
 
