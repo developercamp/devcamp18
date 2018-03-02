@@ -32,7 +32,7 @@ Freitag
 
 | Freitag        | 11:00  | 12:00  | 14:00  |  15:00 | 16:15 | 17:15  |  18:15  
 |----------------|---|---|---|---|---|---|---|
-| Raum 1.002. [DevCamp.create](https://create.developercamp.io) | tba  | tba | tba | tba | tba | tba | tba |
+| Raum 1.002  [DevCamp.create](https://create.developercamp.io) | tba  | tba | tba | tba | tba | tba | tba |
 | Raum 1.003      | tba  | tba | tba | tba | tba | tba | tba |
 | Raum 1.005      | tba  | tba | tba | tba | tba | tba | tba |
 | Raum 1.006      | tba  | tba | tba | tba | tba | tba | tba |
