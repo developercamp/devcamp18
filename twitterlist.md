@@ -8,3 +8,4 @@ Feel free to add your twitter handle.
 * [Robert Lippert](https://twitter.com/robsblog) (robsblog)
 * [Tom Wiesseckel](https://twitter.com/divb) (divb)
 * [Christopher Stock](https://twitter.com/jenetic1980) (jenetic1980)
+* [Lenz Weber](https://twitter.com/phry) (phry)
