@@ -46,7 +46,7 @@ Samstag
 | Samstag        | 09:00  | 10:00  | 11:00  |  12:00 | 14:00 | 15:00  | 16:00  
 |----------------|---|---|---|---|---|---|---|
 | Raum 1.002  [DevCamp.create](https://create.developercamp.io) | -- | [Workshop "Design Challenge"](https://create.developercamp.io/#edc) | [Workshop "Design Challenge"](https://create.developercamp.io/#edc) | [Workshop "Design Challenge"](https://create.developercamp.io/#edc) | Kreativität für Einsteiger | Break UX | Design-Methoden-Bingo |
-| Raum 1.003      | -- | Component-based CSS | Webpack | Power up your ZSH | Building a legacy – heute die Altlasten von morgen bauen | -- | Software Craftsmanship |
+| Raum 1.003      | -- | Component-based CSS | Webpack | Power up your ZSH | Building a legacy – heute die Altlasten von morgen bauen | ReCREWtment in der IT | Software Craftsmanship |
 | Raum 1.005      | -- | Dependency Integration in Swift | Scheme | Die Reise von 5 PDF-Erstellungssystemen zu einem | Mit Wörtern rechnen | Laravel Backpack | -- |
 | Raum 1.006      | Anti-Pattern in Code & Architektur | Björn lernt PHP | ASK for: VoiP | Dezentralisierte Apps | Stoneage Team Game | -- | -- |
 | Raum 1.010      | -- | Microservice mit Spring Boot & Docker | One size fits all – PostgreSQL als (No)SQL-Datenbank | AWS für SaaS-Backend | Was ist Kubernetes? | -- | -- |
