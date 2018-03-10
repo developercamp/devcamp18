@@ -48,9 +48,9 @@ Samstag
 | Raum 1.002  [DevCamp.create](https://create.developercamp.io) | -- | [Workshop "Design Challenge"](https://create.developercamp.io/#edc) | [Workshop "Design Challenge"](https://create.developercamp.io/#edc) | [Workshop "Design Challenge"](https://create.developercamp.io/#edc) | Kreativität für Einsteiger | Break UX | Design-Methoden-Bingo |
 | Raum 1.003      | -- | Component-based CSS | Webpack | Power up your ZSH | Building a legacy – heute die Altlasten von morgen bauen | -- | -- |
 | Raum 1.005      | -- | Dependency Integration in Swift | Scheme | Die Reise von 5 PDF-Erstellungssystemen zu einem | Mit Wörtern rechnen | Laravel Backpack | -- |
-| Raum 1.006      | -- | Björn lernt PHP | ASK for: VoiP | Dezentralisierte Apps | Stoneage Team Game | Workshop: Building a LoRa Gateway | -- |
+| Raum 1.006      | Anti-Pattern in Code & Architektur | Björn lernt PHP | ASK for: VoiP | Dezentralisierte Apps | Stoneage Team Game | -- | -- |
 | Raum 1.010      | -- | Microservice mit Spring Boot & Docker | One size fits all – PostgreSQL als (No)SQL-Datenbank | AWS für SaaS-Backend | Was ist Kubernetes? | -- | -- |
-| Raum 1.013      | -- | NixOS – Deklarative Linux-Distribution | Laravel-Einführung | -- | -- | -- | -- |
-| Hackspace      | -- | -- | -- | Erwrtung an den Entwickler bei Beförderung zu Manager | Shopware 6 | Docker-Images mit Nix bauen zur Verbesserung der Reproduzierbarkeit | Live-Coding in Laravel |
+| Raum 1.013      | -- | Self-Contained System | Softwareentwicklung in der Sackgasse | NixOS – Deklarative Linux-Distribution | -- | Laravel-Einführung | -- |
+| Hackspace      | -- | -- | -- | Erwartung an den Entwickler bei Beförderung zu Manager | Shopware 6 | Docker-Images mit Nix bauen zur Verbesserung der Reproduzierbarkeit | Live-Coding in Laravel |
 
 
