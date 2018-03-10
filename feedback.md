@@ -5,6 +5,7 @@ Share your thougts, your pictures, notes, and everything related to #devcamp18.
 ## #devcamp18
 
 * [Modern CSS: Was kommt nach BEM? Utility Classes](https://share.palasthotel.de/devcamp18/was-kommt-nach-bem-utility-classes/) von Kim-Christian Meyer
+* [Dependency Injection in Swift](https://share.palasthotel.de/devcamp18/di-in-swift.pdf) von Enno Welbers
 
 ## #devcamp17
 
