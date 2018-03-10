@@ -51,6 +51,6 @@ Samstag
 | Raum 1.006      | Anti-Pattern in Code & Architektur | Björn lernt PHP | ASK for: VoiP | Dezentralisierte Apps | Stoneage Team Game | Programmierunterricht in der Schuldbildung | -- |
 | Raum 1.010      | -- | Microservice mit Spring Boot & Docker | One size fits all – PostgreSQL als (No)SQL-Datenbank | AWS für SaaS-Backend | Was ist Kubernetes? | ReCREWtment in der IT | -- |
 | Raum 1.013      | -- | Self-Contained System | Softwareentwicklung in der Sackgasse | NixOS – Deklarative Linux-Distribution | Ein-Blick-e: Raspberry 2 | Laravel-Einführung | -- |
-| Hackspace      | -- | -- | -- | Erwartung an den Entwickler bei Beförderung zu Manager | Shopware 6 | Docker-Images mit Nix bauen zur Verbesserung der Reproduzierbarkeit | Live-Coding in Laravel |
+| Hackspace      | -- | -- | -- | Erwartung an den Entwickler bei Beförderung zu Manager | Shopware 6 | Docker-Images mit Nix bauen zur Verbesserung der Reproduzierbarkeit | -- |
 
 
