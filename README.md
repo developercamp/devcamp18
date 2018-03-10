@@ -48,7 +48,7 @@ Samstag
 | Raum 1.002  [DevCamp.create](https://create.developercamp.io) | -- | [Workshop "Design Challenge"](https://create.developercamp.io/#edc) | [Workshop "Design Challenge"](https://create.developercamp.io/#edc) | [Workshop "Design Challenge"](https://create.developercamp.io/#edc) | Kreativität für Einsteiger | Break UX | Design-Methoden-Bingo |
 | Raum 1.003      | -- | Component-based CSS | Webpack | Power up your ZSH | Building a legacy – heute die Altlasten von morgen bauen | Application Performance Monitoring mit Prometheus | Software Craftsmanship |
 | Raum 1.005      | -- | Dependency Integration in Swift | Scheme | Die Reise von 5 PDF-Erstellungssystemen zu einem | Mit Wörtern rechnen | Laravel Backpack | -- |
-| Raum 1.006      | Anti-Pattern in Code & Architektur | Björn lernt PHP | ASK for: VoiP | Dezentralisierte Apps | Stoneage Team Game | -- | -- |
+| Raum 1.006      | Anti-Pattern in Code & Architektur | Björn lernt PHP | ASK for: VoiP | Dezentralisierte Apps | Stoneage Team Game | Programmierunterricht in der Schuldbildung | -- |
 | Raum 1.010      | -- | Microservice mit Spring Boot & Docker | One size fits all – PostgreSQL als (No)SQL-Datenbank | AWS für SaaS-Backend | Was ist Kubernetes? | ReCREWtment in der IT | -- |
 | Raum 1.013      | -- | Self-Contained System | Softwareentwicklung in der Sackgasse | NixOS – Deklarative Linux-Distribution | -- | Laravel-Einführung | -- |
 | Hackspace      | -- | -- | -- | Erwartung an den Entwickler bei Beförderung zu Manager | Shopware 6 | Docker-Images mit Nix bauen zur Verbesserung der Reproduzierbarkeit | Live-Coding in Laravel |
