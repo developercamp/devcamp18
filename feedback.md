@@ -9,6 +9,8 @@ Share your thougts, your pictures, notes, and everything related to #devcamp18.
 * Power Up your ZSH | Eugens [ZSH Git-Repo](https://github.com/blanorama/.zprezto) als Inspirationsquelle und Hilfestellung - Eugen Blattner
 * ["Scaled Agile"](https://docs.google.com/presentation/d/1EEDZrRKDOon9T3C3_Fvay7B9qhAbYEoEnBRwrrtPNwk/edit?usp=sharing) ein Talk von Stefan Stührmann und Michael Streiner von EMnify Würzburg
 * [Tickt ihr wie wir? ReCREWtment in der IT](http://mrst.github.io/TicktIhrWieWirDiscussion.html) das Ergebniss einer Diskusionsrunde mit Franziska Büttner (s.Oliver) und Michael Streiner (EMnify)
+* [Building a Legacy](https://www.prechtel.eu/talks/building-a-legacy/) - Frank Prechtel
+* [One Size Fits All - PostgreSQL as (No)SQL Database](https://www.prechtel.eu/talks/one-size-fits-all/) - Frank Prechtel
 
 ## #devcamp17
 
