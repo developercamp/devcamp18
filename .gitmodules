@@ -4,3 +4,6 @@
 [submodule "webpack-demo"]
 	path = webpack-demo
 	url = https://github.com/phryneas/webpack-demo
+[submodule "vim-intro"]
+	path = vim-intro
+	url = https://github.com/iimog/vim-intro-devcamp18
