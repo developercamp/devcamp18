@@ -6,6 +6,8 @@ Share your thougts, your pictures, notes, and everything related to #devcamp18.
 
 * [Modern CSS: Was kommt nach BEM? Utility Classes](https://share.palasthotel.de/devcamp18/was-kommt-nach-bem-utility-classes/) von Kim-Christian Meyer
 * Power Up your ZSH | Eugens [ZSH Git-Repo](https://github.com/blanorama/.zprezto) als Inspirationsquelle und Hilfestellung - Eugen Blattner
+* ["Scaled Agile"](https://docs.google.com/presentation/d/1EEDZrRKDOon9T3C3_Fvay7B9qhAbYEoEnBRwrrtPNwk/edit?usp=sharing) ein Talk von Stefan Stührmann und Michael Streiner von EMnify Würzburg
+* [Tickt ihr wie wir? ReCREWtment in der IT](http://mrst.github.io/TicktIhrWieWirDiscussion.html) das Ergebniss einer Diskusionsrunde mit Franziska Büttner (s.Oliver) und Michael Streiner (EMnify)
 
 ## #devcamp17
 
