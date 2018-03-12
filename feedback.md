@@ -11,6 +11,7 @@ Share your thougts, your pictures, notes, and everything related to #devcamp18.
 * [Tickt ihr wie wir? ReCREWtment in der IT](http://mrst.github.io/TicktIhrWieWirDiscussion.html) das Ergebniss einer Diskusionsrunde mit Franziska Büttner (s.Oliver) und Michael Streiner (EMnify)
 * [Building a Legacy](https://www.prechtel.eu/talks/building-a-legacy/) - Frank Prechtel
 * [One Size Fits All - PostgreSQL as (No)SQL Database](https://www.prechtel.eu/talks/one-size-fits-all/) - Frank Prechtel
+* [Word Vectorization and Semantic Arithmetic (king - man + woman = queen)](https://github.com/Philipduerholt/word2vec_session) - Philip Dürholt
 
 ## #devcamp17
 
