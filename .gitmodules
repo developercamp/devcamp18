@@ -7,3 +7,6 @@
 [submodule "vim-intro"]
 	path = vim-intro
 	url = https://github.com/iimog/vim-intro-devcamp18
+[submodule "blockchain-workshop"]
+	path = blockchain-workshop
+	url = https://github.com/rofthedeep/blockchain-workshop.git
