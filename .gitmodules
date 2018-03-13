@@ -10,3 +10,6 @@
 [submodule "blockchain-workshop"]
 	path = blockchain-workshop
 	url = https://github.com/rofthedeep/blockchain-workshop.git
+[submodule "developer-camp-awesome-list"]
+	path = developer-camp-awesome-list
+	url = https://github.com/rofthedeep/developer-camp-awesome-list.git
