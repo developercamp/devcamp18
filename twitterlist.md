@@ -12,3 +12,4 @@ Feel free to add your twitter handle.
 * [Kim Meyer](https://twitter.com/greatestview) (greatestview)
 * [Markus Ankenbrand](https://twitter.com/IIMOG) (IIMOG)
 * [Frank Prechtel](https://twitter.com/FrankPrechtel) (FrankPrechtel)
+* [Mirjam Bäuerlein] (https://twitter.com/mirjam_diala)
