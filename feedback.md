@@ -1,5 +1,5 @@
 
-*# Articles in Blogs etc.
+# Articles in Blogs etc.
 
 Share your thougts, your pictures, notes, and everything related to #devcamp18.
 
