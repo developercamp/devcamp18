@@ -13,3 +13,6 @@
 [submodule "developer-camp-awesome-list"]
 	path = developer-camp-awesome-list
 	url = https://github.com/rofthedeep/developer-camp-awesome-list.git
+[submodule "coding-ninjas"]
+	path = coding-ninjas
+	url = https://github.com/christopherstock/coding-ninjas.git
