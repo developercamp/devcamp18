@@ -13,6 +13,8 @@ Share your thougts, your pictures, notes, and everything related to #devcamp18.
 * [One Size Fits All - PostgreSQL as (No)SQL Database](https://www.prechtel.eu/talks/one-size-fits-all/) - Frank Prechtel
 * [Word Vectorization and Semantic Arithmetic (king - man + woman = queen)](https://github.com/Philipduerholt/word2vec_session) - Philip Dürholt
 * [Component-based CSS](http://slides.com/programmiri/component-based-css-1/fullscreen) - von Mirjam Bäuerlein
+* [Softskills für ITler](https://github.com/LattiNbg/SoftSkills) - von Latti
+* [Software Craftsmanship](https://github.com/LattiNbg/SoftwareCraftsmanship) - von Latti & Frank Prechtel
 * [Coding Ninjas – die Story hinter dem Projekt](https://blog.mayflower.de/6722-coding-ninjas.html?utm_source=GitHub&utm_medium=social) – von Christopher Stock
 
 ## #devcamp17
